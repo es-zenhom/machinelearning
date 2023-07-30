@@ -8,9 +8,6 @@ Training involved three distinct Multi-Layer Perceptrons (MLPs) to compute and c
 ## Decision Trees and Random Forests Challenges
 The notebook `DecisionTreesChallenges (2) (2).ipynb` consists of three challenges that explore the application of Decision Trees and Random Forests using Digits and Iris datasets. It demonstrates the workings of these methods, feature importance extraction, and visualization of decision trees.
 
-## NumPy Exercises
-A set of NumPy exercises demonstrating various operations on arrays, properties of matrices, and more, can be found in the notebook `NumPyExercises.ipynb`.
-
 ## Machine Learning: Clustering Challenges
 The notebook `ClusteringChallenges.ipynb` contains exercises related to different clustering techniques - K-means, Gaussian Mixture Models (GMM), and Silhouette Analysis. It demonstrates how clustering can help identify common patterns in data, generate new data, and choose the optimal number of clusters.
 
