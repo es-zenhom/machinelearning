@@ -1,0 +1,3 @@
+[submodule "GATOR"]
+	path = GATOR
+	url = https://github.com/sgnoohc/GATOR.git
